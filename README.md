@@ -1,4 +1,4 @@
-# Flutter-Syllabus
+# Flutter-Syllabus with Ekraj
 
 ## Introduction to Flutter and Dart (2 hours)
 In this module, you will gain a comprehensive understanding of Flutter’s components. You will explore Flutter’s cross-platform capabilities and how they work together to create efficient and visually appealing apps. The module will also delve into the Flutter Toolchain, SDK, and essential utilities, providing you with the necessary tools for building and debugging your Flutter apps. You’ll also learn the significance of Dart, the programming language that powers Flutter, and its role in creating robust and scalable applications. <br>
